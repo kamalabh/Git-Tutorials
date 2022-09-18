@@ -1,0 +1,2 @@
+this is my learning of git version3.
+learning git and make changes in github directly.
